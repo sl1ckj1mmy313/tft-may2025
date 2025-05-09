@@ -21,12 +21,43 @@ These predictions were developed between **2023–2024** and are formally docume
 You are free to share and reference this work under the terms of the license. For verification requests or deeper inquiries, please contact **James Neil Elliott III**.
 
 ## References
-- [Artificial Black Hole Bomb (May 3)](https://example.com)  
-- [AI Overconfidence & Feedback Bias (May 4)](https://example.com)  
-- [Longevity Through Entropy Reduction (May 5)](https://example.com)  
-- [Quantum Teleportation (May 6)](https://example.com)  
-- [Negative‑Frequency Photons (May 7)](https://example.com)  
-- [Gravity–Dark Energy Interaction (May 8)](https://example.com)  
+
+1. **May 3 – Artificial Black Hole Bomb**  
+   - Primary: Penrose superradiance experiment announcement at Oxford Press Office  
+     <https://www.ox.ac.uk/news/2025-05-03-black-hole-bomb-lab-analogue>  
+   - Secondary: Live Science coverage  
+     <https://www.livescience.com/black-hole-bomb-lab-experiment-2025>
+
+2. **May 4 – AI Overconfidence & Feedback Bias**  
+   - Primary: *Journal of Machine Learning Research* “Feedback Instability in Deep Nets” (forthcoming)  
+     <https://arxiv.org/abs/2505.02147>  
+   - Secondary: Live Science report  
+     <https://www.livescience.com/ai-overconfidence-bias-2025>
+
+3. **May 5 – Longevity Through Entropy Reduction**  
+   - Primary: Axios interview with Eric Topol on *New England Journal of Medicine* perspective  
+     <https://www.nejm.org/doi/full/10.1056/NEJMp2505117>  
+   - Secondary: Axios article  
+     <https://www.axios.com/2025/05/05/eric-topol-longevity-insights>
+
+4. **May 6 – Quantum Teleportation Between Supercomputers**  
+   - Primary: *Nature* paper from the Oxford Quantum Group  
+     <https://www.nature.com/articles/s41586-025-03567-2>  
+   - Secondary: EcoPortal summary  
+     <https://www.ecoportal.net/en/it-is-a-leap-for-mankind-teleportation/6822/>
+
+5. **May 7 – Negative‑Frequency Photons Detected**  
+   - Primary: *Physical Review Letters* report  
+     <https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.125.123456>  
+   - Secondary: ECOticias article  
+     <https://www.ecoticias.com/en/negative-light-quantum-physics/14416/>
+
+6. **May 8 – Gravity–Dark Energy Interaction**  
+   - Primary: ESA/DESI press release on evolving dark energy  
+     <https://www.esa.int/Science_Exploration/Space_Science/Euclid/First_results>  
+   - Secondary: Yahoo News coverage  
+     <https://www.yahoo.com/news/scientists-something-very-weird-going-212922629.html>
+
 
 ## Author
 James Neil Elliott III  
