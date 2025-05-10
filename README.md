@@ -17,7 +17,17 @@ These predictions were developed between **2023–2024** and are formally docume
 - `TFT_Public_Disclosure_May2025.tex` – LaTeX source  
 - `LICENSE.txt` – Creative Commons license
 
+## OSF Archive
+
+This repository is mirrored and archived on OSF for timestamped scientific registration and long-term access:
+
+> **View on OSF:** [https://osf.io/2je8h](https://osf.io/2je8h)
+
+**Citation:**  
+Elliott, J. N., III. (2025, May 9). *Transcendent Flow Theory — May 2025 Public Disclosure*. OSF. https://osf.io/2je8h
+
 ## Usage
+
 You are free to share and reference this work under the terms of the license. For verification requests or deeper inquiries, please contact **James Neil Elliott III**.
 
 ## References
@@ -58,6 +68,6 @@ You are free to share and reference this work under the terms of the license. Fo
    - Secondary: Yahoo News coverage  
      <https://www.yahoo.com/news/scientists-something-very-weird-going-212922629.html>
 
-
 ## Author
-James Neil Elliott III  
+
+**James Neil Elliott III**
