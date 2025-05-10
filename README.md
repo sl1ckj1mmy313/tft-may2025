@@ -28,7 +28,7 @@ Elliott, J. N., III. (2025, May 9). *Transcendent Flow Theory — May 2025 Publi
 
 ## Usage
 
-You are free to share and reference this work under the terms of the license. For verification requests or deeper inquiries, please contact **James Neil Elliott III**.
+You are free to share and reference this work under the terms of the license.
 
 ## References
 
